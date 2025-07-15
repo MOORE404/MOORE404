@@ -1,6 +1,6 @@
 ## Hi there, I'm Jon! :)
 
-I'm currently a Computer Science student at the University of Nottingham(https://cs.nott.ac.uk)
+I'm a recent Computer Science graduate at the University of Nottingham(https://cs.nott.ac.uk)
 
 Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
