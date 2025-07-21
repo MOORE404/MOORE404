@@ -1,11 +1,13 @@
-## Hi there, I'm Jon! :)
+# Hi, I'm Jon!
 
-I'm a recent Computer Science graduate at the University of Nottingham(https://cs.nott.ac.uk)
+I'm a recent Computer Science graduate from the [University of Nottingham](https://cs.nott.ac.uk) with a strong passion for user experience and interaction design
 
-Take a look at a few of my projects listed below, and don't hesitate to get in touch with me.
 
-email `jonathan.moore.cs@gmail.com` 
+## Let's Connect
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MOORE404&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOORE404&layout=compact&card_width=250&hide_border=true&theme=dark"/>
+I’m actively looking for **junior UX design** roles, especially where I can collaborate with developers and contribute to real-world interaction problems.
+
+- 📧 jonathan.moore.cs@gmail.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/jonathan-moore-2b66a8290/))
+
 
