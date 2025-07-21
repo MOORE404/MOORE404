@@ -10,5 +10,7 @@ I’m currently looking for **junior UX design** roles.
 - 📧 jonathan.moore.cs@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-moore-2b66a8290/)
 
+**take a look at a few of my projects below!** 👇
+
 
 
