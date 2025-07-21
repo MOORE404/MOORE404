@@ -5,9 +5,10 @@ I'm a recent Computer Science graduate from the [University of Nottingham](https
 
 ## Let's Connect
 
-I’m actively looking for **junior UX design** roles, especially where I can collaborate with developers and contribute to real-world interaction problems.
+I’m currently looking for **junior UX design** roles.
 
 - 📧 jonathan.moore.cs@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/jonathan-moore-2b66a8290/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-moore-2b66a8290/)
+
 
 
