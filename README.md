@@ -1,6 +1,6 @@
 # Hi, I'm Jon!
 
-I'm a recent Computer Science graduate from the [University of Nottingham](https://cs.nott.ac.uk) with a passion for user experience and interaction design and a strong background in computer science
+I'm a recent Computer Science graduate from the [University of Nottingham](https://cs.nott.ac.uk) with a passion for user experience and interaction design.
 
 
 ## Let's Connect
