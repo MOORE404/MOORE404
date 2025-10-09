@@ -5,8 +5,6 @@ I'm a recent Computer Science graduate from the [University of Nottingham](https
 
 ## Let's Connect
 
-I’m currently looking for **junior UX design** roles.
-
 - 📧 jonathan.moore.cs@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-moore-2b66a8290/)
 
